@@ -1,0 +1,25 @@
+{
+  "name": "for_lambda",
+  "version": "1.0.0",
+  "description": "testing aws lambda",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "requests": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftwr/for_lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftwr/for_lambda/issues"
+  },
+  "homepage": "https://github.com/ftwr/for_lambda#readme"
+}
